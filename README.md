@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abolfazl
 - 👀 I’m interested in CSS, JS
-- 📫 Reach me t.me/B_Abolfazl a.baghshahi1327@gmail.com
+- 📫 Reach me www.t.me/B_Abolfazl / a.baghshahi1327@gmail.com
 
 <!---
 bAbolfazl/bAbolfazl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
